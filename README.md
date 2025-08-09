@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data scientist meets software engineer to create a data driven solution finder. Hi, I'm Delmond, a young aspiring software engineer with a passion in robotics, AI, automation, and data visualization.<br><br>🔭 I’m currently working on mixing augmented reality with advanced autonomous robotics.<br>👯 I’m looking to collaborate on machine learning and robotics projects.<br><br>⚡ Fun fact: I spent most of my youth in a Caribbean island learning Turbo Pascal.
+Data scientist meets software engineer to create a data driven solution finder. Hi, I'm Wyllis, a young aspiring software engineer with a passion in robotics, AI, automation, and data visualization.<br><br>🔭 I’m currently working on mixing augmented reality with advanced autonomous robotics.<br>👯 I’m looking to collaborate on machine learning and robotics projects.<br><br>⚡ Fun fact: I spent most of my youth in a Caribbean island learning Turbo Pascal.
 
 
 ## 🌐 Socials:
